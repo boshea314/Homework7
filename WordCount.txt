@@ -1,0 +1,16 @@
+This is a sample file used for Homework 6. It will be used to count 
+individual occurances of each word using Python in Google Colab.
+
+The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog
+
+
+How quickly daft jumping zebras vex
+How quickly daft jumping zebras vex
+How quickly daft jumping zebras vex
+
+A large fawn jumped quickly over white zinc boxes
+A large fawn jumped quickly over white zinc boxes
+
+
